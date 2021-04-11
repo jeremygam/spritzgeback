@@ -33,3 +33,9 @@ For info on how to design your own keyboard, check out Hadi's youtube channel: h
 Note that since each of the spritzgeback variants are highly similar electrically, they can all use the same qmk files
 
 Note that if you make your own case files, ponoko recommends saving in eps file format with units set to mm instead of points.
+
+------------------------
+
+<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a>
+
+This work is licensed under a [Creative Commons Attribution-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-sa/4.0/).
