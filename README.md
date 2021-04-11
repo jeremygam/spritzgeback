@@ -1,5 +1,8 @@
 # spritzgeback
-a few similar custom low profile mechanical keyboards running qmk
+a suite of similar custom low profile mechanical keyboards running qmk
+
+
+
 
 This documentation is a work in progress. Will update with more and clean up later
 
