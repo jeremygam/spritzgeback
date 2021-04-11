@@ -23,7 +23,7 @@ You will need to install and use qmk to flash your keyboard firmware https://qmk
 
 You will need a footprint file for the USB-C connector Korean Hroparts Elec TYPE-C-31-M-17 from https://www.snapeda.com/parts/TYPE-C-31-M-12/HRO%20Electronics%20Co.,%20Ltd./view-part/
 
-You may also want footprints for Kailh Choc v1 switches (PG1350) from https://github.com/daprice/keyswitches.pretty - though I've made some changes to allow Choc v2 switches to be used interchangeably so the original footprints may not be needed.
+You may also want footprints for Kailh Choc v1 switches (PG1350) from https://github.com/daprice/keyswitches.pretty (also under CC BY-SA 4.0). I modified some of those original footprints to allow for either Choc v1 or v2 switches to be used (see SW_PG1353.kicad_mod and Kailh_socket_PG1353.kicad_mod in the JJG.pretty directory).
 
 
 ### Other Information
