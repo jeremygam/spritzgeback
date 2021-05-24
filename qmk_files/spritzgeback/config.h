@@ -46,6 +46,8 @@
 /* prevent stuck modifiers */
 #define PREVENT_STUCK_MODIFIERS
 
+/* Tap Dance Delay */
+#define TAPPING_TERM 300
 
 #ifdef RGB_DI_PIN
 #define RGBLIGHT_ANIMATIONS
