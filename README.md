@@ -37,7 +37,7 @@ You may also want footprints for Kailh Choc v1 switches (PG1350) from https://gi
 
 ### Other Information
 
-For info on how to design your own keyboard, check out Hadi's youtube channel: https://www.youtube.com/playlist?list=PLbtY7JsOJDYkHNuTmBtGgaWv_qipKeL-u
+For info on how to design your own keyboard, check out Hadi's youtube channel (https://www.youtube.com/playlist?list=PLbtY7JsOJDYkHNuTmBtGgaWv_qipKeL-u) or Masterzen's tutorial (https://www.masterzen.fr/2020/05/03/designing-a-keyboard-part-1/)
 
 Note that since each of the spritzgeback variants are highly similar electrically, they can all use the same qmk files
 
