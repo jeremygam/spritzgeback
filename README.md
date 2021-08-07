@@ -6,7 +6,6 @@ Note that this documentation is a work in progress. Will update with more and cl
 ![IMG_7178](https://user-images.githubusercontent.com/27288464/128604328-c60e7273-6d3b-406c-bc2d-713f714ee1b4.jpg)
 ![IMG_7169](https://user-images.githubusercontent.com/27288464/128604227-9c399b1e-d192-4ae5-ba74-cb7ddcb1cbdd.jpg)
 ![IMG_7173](https://user-images.githubusercontent.com/27288464/128604246-8957ce73-f243-4944-82c9-91d6b3a9f88c.jpg)
-![IMG_7175](https://user-images.githubusercontent.com/27288464/128604314-8d5a5a23-c745-471a-975c-9a94e8314c01.jpg)
 
 
 ### Basic Information
