@@ -20,7 +20,7 @@ Rect:
 Uses four laser-cut case layers, with the PCB residing within one of the layers. This keyboard should be best if using Kailh Choc v1 switches with either the Kailh keycaps or MBK keycaps (which measure 16mm in height and 17mm in width).
 
 Hotswap:
-Similar to Rect but uses hotswap sockets instead of having switches soldered in place. This variant has not been built or tested yet.
+Similar to Rect but uses hotswap sockets instead of having switches soldered in place.
 
 ### Making a keyboard
 
