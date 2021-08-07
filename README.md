@@ -3,18 +3,24 @@ A suite of similar custom low profile mechanical keyboards running qmk
 
 Note that this documentation is a work in progress. Will update with more and clean up later
 
+![IMG_7178](https://user-images.githubusercontent.com/27288464/128604328-c60e7273-6d3b-406c-bc2d-713f714ee1b4.jpg)
+![IMG_7169](https://user-images.githubusercontent.com/27288464/128604227-9c399b1e-d192-4ae5-ba74-cb7ddcb1cbdd.jpg)
+![IMG_7184](https://user-images.githubusercontent.com/27288464/128604378-c654f5af-dc6c-4c7b-99c6-7b82e657b2f4.jpg)
+![IMG_7173](https://user-images.githubusercontent.com/27288464/128604246-8957ce73-f243-4944-82c9-91d6b3a9f88c.jpg)
+
+
 ### Basic Information
 
 There are three variants of the spritzgeback keyboard: one with square spacing between keys, one with rectangular spacing between keys, and one with rectangular spacing that uses hotswap sockets.
 
 Square:
-Uses three laser-cut case layers plus a PCB layer. All layers are simply stacked so each is visible from the side. This keyboard should be best if using Kailh Choc v2 switches with more 'regular' profile keycaps like DSA, or if you generally prefer wider spacing between keys. Note that if you are using high profile keycaps, the keys may not depress all the way if you include case layer 3 - it should be fine to leave out layer 3 and just have the PCB as the top layer
+Uses three laser-cut case layers plus a PCB layer. All layers are simply stacked so each is visible from the side. This keyboard should be best if using Kailh Choc v2 switches with more 'regular' profile keycaps like DSA, or if you generally prefer wider spacing between keys. Note that if you are using high profile keycaps, the keys may not depress all the way if you include the plate (case layer 3) - it should be fine to leave out layer 3 and just have the PCB as the top layer
 
 Rect:
 Uses four laser-cut case layers, with the PCB residing within one of the layers. This keyboard should be best if using Kailh Choc v1 switches with either the Kailh keycaps or MBK keycaps (which measure 16mm in height and 17mm in width).
 
 Hotswap:
-Similar to Rect but uses hotswap sockets instead of having switches soldered in place. This variant has not been built or tested yet.
+Similar to Rect but uses hotswap sockets instead of having switches soldered in place.
 
 ### Making a keyboard
 
@@ -37,7 +43,7 @@ You may also want footprints for Kailh Choc v1 switches (PG1350) from https://gi
 
 ### Other Information
 
-For info on how to design your own keyboard, check out Hadi's youtube channel: https://www.youtube.com/playlist?list=PLbtY7JsOJDYkHNuTmBtGgaWv_qipKeL-u
+For info on how to design your own keyboard, check out Hadi's youtube channel (https://www.youtube.com/playlist?list=PLbtY7JsOJDYkHNuTmBtGgaWv_qipKeL-u) or Masterzen's tutorial (https://www.masterzen.fr/2020/05/03/designing-a-keyboard-part-1/)
 
 Note that since each of the spritzgeback variants are highly similar electrically, they can all use the same qmk files
 
